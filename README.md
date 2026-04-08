@@ -37,3 +37,8 @@ rules.csv → categorization logic
 ```bash
 pip install -r requirements.txt
 python main.py
+
+
+## 📊 Sample Output
+
+![Summary](output/summary.png)
