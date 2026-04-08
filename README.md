@@ -1,23 +1,39 @@
-# Finance Automation System (Python)
+# 💰 Finance Automation System (Python)
 
-## What it does
-Automates financial operation:
-- Cleans transaction data
-- Categorizes expenses
-- Detects anomalies 
-- Generates Excel reports
+## 🚨 Problem
+Manual financial data processing is:
+- Time-consuming
+- Error-prone
+- Difficult to scale
 
-## Features
-- Multi-file input
-- Rule-based learning system
-- Monthly reporting
-- Error handling
+## ✅ Solution
+This system automates the complete finance workflow:
+- Cleans messy financial data
+- Categorizes transactions automatically
+- Detects anomalies and duplicates
+- Generates Excel reports for decision-making
 
-## How to run
+---
+
+## ⚙️ Features
+- Multi-file data processing
+- Rule-based learning system (`rules.csv`)
+- Automated categorization
+- Financial summary generation
+- Anomaly detection
+- Excel report output
+
+---
+
+## 📂 Project Structure
+data/ → input files  
+output/ → generated reports  
+main.py → main pipeline  
+rules.csv → categorization logic  
+
+---
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
 python main.py
-
-## Output
-- transactions.xlsx
-- summary.xlsx
-
-
