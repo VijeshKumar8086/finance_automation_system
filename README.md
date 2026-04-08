@@ -33,12 +33,15 @@ rules.csv → categorization logic
 
 ---
 
+## 📊 Sample Output
+
+![Summary](output/summary.png)
+
+---
+
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
 python main.py
 
 
-## 📊 Sample Output
-
-![Summary](images/summary.png)
