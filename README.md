@@ -41,4 +41,4 @@ python main.py
 
 ## 📊 Sample Output
 
-![Summary](output/summary.png)
+![Summary](images/summary.png)
